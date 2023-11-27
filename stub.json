@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Actuando como un programador experimentado, genere el código de un menú con cinco opciones desplegables, cada una de las cuales cuenta con tres opciones desplegables más, todo ello en lenguaje Python.","md5":"d5e8fb4c486f2942c433251718058bff"}]}
